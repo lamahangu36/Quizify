@@ -1,0 +1,10 @@
+Quizify
+ ├── Program.cs
+ ├── Models
+ │     ├── Question.cs
+ │     ├── QuizResult.cs
+ ├── Services
+ │     ├── QuizEngine.cs
+ │     ├── ScoreHistoryService.cs
+ └── Data
+       └── QuestionBank.cs
